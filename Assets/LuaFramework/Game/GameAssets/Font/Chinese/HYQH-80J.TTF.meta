@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: de8c741dd78a86d4cba201e6f65a7665
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HYQiHei
+  fontNames:
+  - HYQiHei
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 275ee840d778618489bd339a02740d24, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

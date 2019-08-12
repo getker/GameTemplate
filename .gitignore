@@ -1,0 +1,87 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+StreamingAssets*
+Assets/AssetStoreTools*
+sysinfo.txt
+*.stackdump
+
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+.consulo/
+/*.userprefs
+*.csproj
+/*.pidb
+/*.suo
+*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/.idea*/
+*.tmp
+*.svd
+*.pdb
+*.opendb
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Builds
+*.apk
+*.unitypackage
+
+#my project
+[Tt]emp.meta
+/LuaProject/
+/Assets/UnityVS.meta
+/Assets/UnityVS
+/UnityVS.tolua.v11.suo
+/UnityVS.tolua.CSharp.csproj
+/UnityVS.tolua.CSharp.Editor.csproj
+/UnityVS.tolua.sln
+FR2_Cache.asset*
+/Assets/StreamingAssets/Android*
+/Assets/StreamingAssets/Win32*
+/Assets/StreamingAssets/Windows*
+/Assets/AssetBundles*
+
+/AssetBundles/
+/Bin/
+AssetBundleServerURL*
+#/ProjectSettings/ProjectVersion.txt
+/*.log
+/Assets/GuPingTemp*
+/Assets/LuaScripts*
+/Assets/GameAssets/luabytes*
+
+/Tools/__pycache__/
+
+Apks/
+aolamobile.luaproj
+aolamobile.config
+
+Assets/.vscode/settings.json
+Assets/TempScripts.meta
+Assets/TempScripts/
+Assets/Editor/AutoBuildScript.meta
+Assets/Editor/AutoBuildScript/
+.vscode*
